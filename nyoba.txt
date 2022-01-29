@@ -1,6 +1,6 @@
 belajar git & github
-- kurcat
 - ripCat
 - CoolCat
 - CatSitas
 - Semakin Rajin belajar coding
+- Semakin rajin solat
